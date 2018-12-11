@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+envi
+esquemavacunas.db
+/static
+.DS_Store
